@@ -1,0 +1,19 @@
+{
+  "name": "utilization_for_myself",
+  "version": "0.0.1",
+  "description": "there are some utilizations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telescope114/utilization_for_myself.git"
+  },
+  "author": "telescope114",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telescope114/utilization_for_myself/issues"
+  },
+  "homepage": "https://github.com/telescope114/utilization_for_myself#readme"
+}
