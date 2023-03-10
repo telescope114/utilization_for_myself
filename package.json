@@ -1,6 +1,6 @@
 {
   "name": "utilization_for_myself",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "there are some utilizations ",
   "main": "index.js",
   "scripts": {

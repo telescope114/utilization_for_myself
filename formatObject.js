@@ -46,4 +46,4 @@ const formatObject = (obj, index = 0) => {
   return out
 }
 
-export default formatObject
+module.exports = formatObject

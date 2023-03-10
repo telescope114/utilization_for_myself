@@ -35,5 +35,5 @@ const check = (IP, CIDR) => {
     return true
   }
   
-  export default check
+module.exports = check
   

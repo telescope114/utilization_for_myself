@@ -1,9 +1,9 @@
 /* CIDR校验 */
-import CIDR from './cidrCheck'
+const CIDR = require('./cidrCheck')
 /* object格式化显示 */
-import formatObject from './formatObject'
+const formatObject = require('./formatObject')
 
-export default {
+module.exports = {
     CIDR,
     formatObject
 }
